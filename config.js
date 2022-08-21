@@ -16,7 +16,7 @@ global.author = "Mád."
 global.OwnerName = "Mád himself!"
 global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
 global.SupportGroupLink = "https://chat.whatsapp.com/F8FQm5Uf9ZF4J4QtICL48s"
-global.sessionName = "session"
+global.sessionName = "session-1.json"
 
 // Prefix //
 // If you want to change the prefix, change it and also change all switch's button id from Core.js  otherwise buttons will not work //
